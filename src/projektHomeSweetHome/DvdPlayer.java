@@ -1,5 +1,5 @@
 package projektHomeSweetHome;
 
-public class DvdPlayer {
+public class DvdPlayer implements Device {
 
 }

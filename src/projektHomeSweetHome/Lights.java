@@ -1,5 +1,5 @@
 package projektHomeSweetHome;
 
-public class Lights {
+public class Lights implements Device {
 
 }
